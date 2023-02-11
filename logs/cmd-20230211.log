@@ -1,0 +1,191 @@
+Microsoft Windows [版本 10.0.19042.867]
+(c) 2020 Microsoft Corporation. 保留所有权利。
+
+C:\Users\Andy Hu>cd ..
+
+C:\Users>cd ..
+
+C:\>cd "Program Files"
+
+C:\Program Files>dir
+ 驱动器 C 中的卷是 OS
+ 卷的序列号是 3CD4-D9AD
+
+ C:\Program Files 的目录
+
+2022/12/15  08:44    <DIR>          .
+2022/12/15  08:44    <DIR>          ..
+2021/10/21  12:17    <DIR>          7-Zip
+2021/07/06  06:09    <DIR>          ASUS
+2021/09/26  11:45    <DIR>          Bonjour
+2022/03/24  10:19    <DIR>          Cakewalk
+2022/03/23  14:08    <DIR>          Common Files
+2021/09/16  09:09    <DIR>          ffmpeg
+2021/10/26  20:05    <DIR>          FreeCAD 0.19
+2022/12/27  13:11    <DIR>          Genshin Impact
+2023/01/19  13:13    <DIR>          Honkai Impact 3
+2023/02/01  13:05    <DIR>          Huawei
+2019/12/07  14:45    <DIR>          Internet Explorer
+2022/12/15  08:44    <DIR>          iTunes
+2023/02/03  08:46    <DIR>          Java
+2021/03/25  01:13    <DIR>          kate-20.12.3-1222-windows-msvc2019_64-cl
+2021/11/22  14:10    <DIR>          KiCad
+2021/11/23  01:15    <DIR>          LTC
+2022/11/10  19:08    <DIR>          Microsoft
+2023/02/02  15:06    <DIR>          Microsoft Office
+2020/12/04  06:59    <DIR>          Microsoft Office 15
+2023/02/10  20:23    <DIR>          Microsoft OneDrive
+2019/12/07  09:14    <DIR>          ModifiableWindowsApps
+2023/02/03  13:16    <DIR>          NVIDIA Corporation
+2022/10/22  11:30    <DIR>          obs-studio
+2021/09/19  09:48    <DIR>          openMSX
+2021/10/06  13:52    <DIR>          PuTTY
+2020/12/08  09:16    <DIR>          Python39
+2021/10/21  23:10    <DIR>          SOLIDWORKS Corp
+2022/02/24  16:11    <DIR>          UNP
+2021/05/26  06:51    <DIR>          VirtualDub
+2021/04/02  14:22    <DIR>          Windows Defender
+2021/04/02  14:15    <DIR>          Windows Mail
+2021/04/02  14:15    <DIR>          Windows Media Player
+2019/12/07  14:47    <DIR>          Windows Multimedia Platform
+2021/04/02  14:22    <DIR>          Windows NT
+2021/04/02  14:15    <DIR>          Windows Photo Viewer
+2019/12/07  14:47    <DIR>          Windows Portable Devices
+2019/12/07  09:31    <DIR>          Windows Security
+2019/12/07  09:31    <DIR>          WindowsPowerShell
+2020/12/07  15:11    <DIR>          WinRAR
+               0 个文件              0 字节
+              41 个目录 111,807,430,656 可用字节
+
+C:\Program Files>cd ..
+
+C:\>cd "Program Files (x86)"
+
+C:\Program Files (x86)>dir
+ 驱动器 C 中的卷是 OS
+ 卷的序列号是 3CD4-D9AD
+
+ C:\Program Files (x86) 的目录
+
+2023/02/07  14:31    <DIR>          .
+2023/02/07  14:31    <DIR>          ..
+2022/10/18  18:35    <DIR>          Apple Software Update
+2021/12/14  01:04    <DIR>          ASUS
+2021/12/14  01:04    <DIR>          ASUSTeK COMPUTER INC
+2020/12/07  15:17    <DIR>          BaofengVideo
+2021/09/19  10:11    <DIR>          blueMSX
+2021/09/26  11:45    <DIR>          Bonjour
+2023/02/03  08:46    <DIR>          Common Files
+2021/06/01  13:40    <DIR>          FormatFactory
+2021/09/26  13:48    <DIR>          HiSuite
+2019/12/07  14:45    <DIR>          Internet Explorer
+2021/12/27  01:39    <DIR>          LayoutEditor
+2021/09/19  11:36    <DIR>          Lex Lechz
+2021/07/06  06:09    <DIR>          LightingService
+2021/05/29  14:19    <DIR>          Microsoft
+2021/04/02  14:19    <DIR>          Microsoft.NET
+2021/04/26  00:44    <DIR>          Netease
+2023/02/03  13:16    <DIR>          NVIDIA Corporation
+2021/09/29  17:54    <DIR>          PaperCut MF Client
+2022/01/27  01:30    <DIR>          PC-BASIC 2.0
+2021/10/20  15:57    <DIR>          Pico Technology
+2021/05/30  15:53    <DIR>          PixelFontEdit
+2022/10/22  16:12    <DIR>          Proxifier
+2020/12/04  11:16    <DIR>          QQMailPlugin
+2021/11/07  22:48    <DIR>          Raspberry Pi Imager
+2020/12/04  06:59    <DIR>          Reference Assemblies
+2023/02/07  14:31    <DIR>          Samsung
+2022/12/23  03:04    <DIR>          Steam
+2021/09/05  01:40    <DIR>          Synology
+2021/01/14  08:54    <DIR>          Tencent
+2021/05/05  00:53    <DIR>          Tohou Project
+2021/04/02  14:15    <DIR>          Windows Defender
+2021/10/21  18:58    <DIR>          Windows Kits
+2021/04/02  14:15    <DIR>          Windows Mail
+2021/04/02  14:15    <DIR>          Windows Media Player
+2019/12/07  14:47    <DIR>          Windows Multimedia Platform
+2019/12/07  14:44    <DIR>          Windows NT
+2021/04/02  14:15    <DIR>          Windows Photo Viewer
+2019/12/07  14:47    <DIR>          Windows Portable Devices
+2019/12/07  09:31    <DIR>          WindowsPowerShell
+2021/09/27  15:08    <DIR>          WinMerge
+               0 个文件              0 字节
+              42 个目录 111,800,745,984 可用字节
+
+C:\Program Files (x86)>cd ..
+
+C:\>cd "Program Files (x86)"
+
+C:\Program Files (x86)>cd ..
+
+C:\>cd "Program Files"
+
+C:\Program Files>cd Python39
+
+C:\Program Files\Python39>dir
+ 驱动器 C 中的卷是 OS
+ 卷的序列号是 3CD4-D9AD
+
+ C:\Program Files\Python39 的目录
+
+2020/12/08  09:16    <DIR>          .
+2020/12/08  09:16    <DIR>          ..
+2020/12/08  09:16    <DIR>          DLLs
+2020/12/08  09:16    <DIR>          Doc
+2020/12/08  09:16    <DIR>          include
+2020/12/08  09:16    <DIR>          Lib
+2020/12/08  09:16    <DIR>          libs
+2020/12/07  10:12            32,622 LICENSE.txt
+2020/12/07  10:13         1,036,976 NEWS.txt
+2020/12/07  10:12           101,432 python.exe
+2020/12/07  10:12            59,448 python3.dll
+2020/12/07  10:12         4,451,896 python39.dll
+2020/12/07  10:12            99,896 pythonw.exe
+2020/12/08  09:16    <DIR>          Scripts
+2020/12/08  09:16    <DIR>          tcl
+2020/12/08  09:16    <DIR>          Tools
+2020/12/07  10:12            94,088 vcruntime140.dll
+2020/12/07  10:12            36,744 vcruntime140_1.dll
+               8 个文件      5,913,102 字节
+              10 个目录 111,790,182,400 可用字节
+
+C:\Program Files\Python39>python
+Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit
+Use exit() or Ctrl-Z plus Return to exit
+>>> ^Z
+
+
+C:\Program Files\Python39>python -m pip install requests
+Defaulting to user installation because normal site-packages is not writeable
+Collecting requests
+  Downloading requests-2.28.2-py3-none-any.whl (62 kB)
+     |████████████████████████████████| 62 kB 563 kB/s
+Collecting idna<4,>=2.5
+  Downloading idna-3.4-py3-none-any.whl (61 kB)
+     |████████████████████████████████| 61 kB 42 kB/s
+Collecting charset-normalizer<4,>=2
+  Downloading charset_normalizer-3.0.1-cp39-cp39-win_amd64.whl (96 kB)
+     |████████████████████████████████| 96 kB 6.4 MB/s
+Collecting urllib3<1.27,>=1.21.1
+  Downloading urllib3-1.26.14-py2.py3-none-any.whl (140 kB)
+     |████████████████████████████████| 140 kB ...
+Collecting certifi>=2017.4.17
+  Downloading certifi-2022.12.7-py3-none-any.whl (155 kB)
+     |████████████████████████████████| 155 kB 3.3 MB/s
+Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests
+  WARNING: The script normalizer.exe is installed in 'C:\Users\Andy Hu\AppData\Roaming\Python\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed certifi-2022.12.7 charset-normalizer-3.0.1 idna-3.4 requests-2.28.2 urllib3-1.26.14
+WARNING: You are using pip version 21.1.2; however, version 23.0 is available.
+You should consider upgrading via the 'C:\Program Files\Python39\python.exe -m pip install --upgrade pip' command.
+
+C:\Program Files\Python39>python -m pip install python-dateutil
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: python-dateutil in c:\users\andy hu\appdata\roaming\python\python39\site-packages (2.8.2)
+Requirement already satisfied: six>=1.5 in c:\users\andy hu\appdata\roaming\python\python39\site-packages (from python-dateutil) (1.16.0)
+WARNING: You are using pip version 21.1.2; however, version 23.0 is available.
+You should consider upgrading via the 'C:\Program Files\Python39\python.exe -m pip install --upgrade pip' command.
+
+C:\Program Files\Python39>
