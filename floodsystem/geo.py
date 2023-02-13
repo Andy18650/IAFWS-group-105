@@ -39,12 +39,7 @@ def rivers_by_station_number(stations, N):
             rivers[station.river]+=1
         else:
             rivers[station.river]=1
+    #rivers={river : len(stations_by_river(stations)[river]) for river in rivers_with_station(stations)}
     sortedRivers=sorted_by_key([(river,rivers[river]) for river in rivers],1)
-    riversByStationNumber=sortedRivers[-1:-N-1:-1]
-    for i in range(N,len(sortedRivers)):
-        if sortedRivers[-i-1][1] == sortedRivers[-i][1]:
-            riversByStationNumber.append(sortedRivers[-i-1])
-        else:
-            break
-    return riversByStationNumber
+    return [sortedRivers[-i] for i in range (1,len(sortedRivers)+1) if i <= N or sortedRivers[-i][1] == sortedRivers[-N][1]]
 
