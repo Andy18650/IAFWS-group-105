@@ -31,9 +31,20 @@ def getDistance(longitude1, latitude1, longitude2, latitude2):
                               latitude2/180*math.pi)*r
 
 if __name__=='__main__':
-    for lon1 in range(-180,180,6):
-        for lat1 in range(-90,90,6):
-            for lon2 in range(-180,180,6):
-                for lat2 in range(-90,90,6):
-                    getDistance(lon1,lat1,lon2,lat2)
-        print('progress:',lon1)
+    command = input('Input the first longitude (input \'test\' to run a full test): ')
+    if command == 'test':
+        for lon1 in range(-180,180,10):
+            for lat1 in range(-90,90,10):
+                for lon2 in range(-180,180,10):
+                    for lat2 in range(-90,90,10):
+                        print('Distance from(',lon1,',',lat1,') to (',lon2,',',lat2,') is:',getDistance(lon1,lat1,lon2,lat2),'km')
+            print('progress:',lon1)
+    else:
+        lon1=float(command)
+        lat1=float(input('Input the first latidute: '))
+        name1=input('Input the name for the first place: ')
+        lon2=float(input('Input the second longitude: '))
+        lat2=float(input('Input the second latidute: '))
+        name2=input('Input the name for the second place: ')
+
+        print('Distance from',name1,'to',name2,'is:',getDistance(lon1,lat1,lon2,lat2),'km')
