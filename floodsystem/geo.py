@@ -18,11 +18,7 @@ def stations_by_distance(stations, p):
 def stations_within_radius(stations, centre, r):
     """ This function returns a list of all stations within radius r
         of geographics coordinate defined by centre"""
-    stationWithinRadius=[]
-    for station in stations:
-        if haversine(station.coord,centre) <= r:
-            stationWithinRadius.append(station)
-    return stationWithinRadius
+    return [station for station in stations if haversine(station.coord,centre) <= r]
 
 def rivers_by_station_number(stations, N):
     """ This function returns a list of N rivers with the greatest
@@ -41,4 +37,3 @@ def rivers_by_station_number(stations, N):
         else:
             break
     return riversByStationNumber
-
