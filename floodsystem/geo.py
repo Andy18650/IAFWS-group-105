@@ -37,3 +37,9 @@ def rivers_by_station_number(stations, N):
         else:
             break
     return riversByStationNumber
+
+def rivers_with_station(stations):
+    return {station.river for station in stations}
+
+def stations_by_river(stations):
+    return {riverName : [station for station in stations if station.river == riverName] for riverName in rivers_with_station(stations)}
