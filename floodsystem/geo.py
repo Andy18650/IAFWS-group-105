@@ -10,8 +10,7 @@ from .utils import sorted_by_key  # noqa
 from haversine import haversine
 
 def stations_by_distance(stations, p):
-    distances=[]
-    for station in stations:
-        distance=haversine(station.coord,p)
-        distances.append((station,distance))
-    return sorted_by_key(distances,1)
+    """ This function returns a list of (station,distance) tuples
+        sorted by distance """
+    return sorted_by_key([(station,haversine(station.coord,p))
+                          for station in stations],1)
