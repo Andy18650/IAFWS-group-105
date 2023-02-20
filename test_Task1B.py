@@ -1,7 +1,7 @@
 # Copyright (C) 2023 Jiajun Hu
 #
 # SPDX-License-Identifier: MIT
-"""Unit test for task 1A"""
+"""Unit test for task 1B"""
 
 from floodsystem.stationdata import build_station_list, update_water_levels
 from floodsystem.station import MonitoringStation
