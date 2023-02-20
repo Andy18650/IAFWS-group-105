@@ -1,4 +1,4 @@
-# Copyright (C) 2018 Garth N. Wells
+# Copyright (C) 2023 Jiajun Hu
 #
 # SPDX-License-Identifier: MIT
 """Unit test for task 1A"""
