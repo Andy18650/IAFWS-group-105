@@ -1,7 +1,7 @@
 # Copyright (C) 2023 Jiajun Hu
 #
 # SPDX-License-Identifier: MIT
-"""This module 
+"""This module provides functions to plot flood data
 
 """
 

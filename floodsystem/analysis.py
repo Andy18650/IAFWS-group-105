@@ -1,7 +1,8 @@
 # Copyright (C) 2023 Jiajun Hu
 #
 # SPDX-License-Identifier: MIT
-"""This module 
+""" This module provides a function to fit the flood date with a
+    polynomial function
 
 """
 import matplotlib
